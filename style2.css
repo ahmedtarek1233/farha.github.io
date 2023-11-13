@@ -1,0 +1,90 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    min-height: 100vh;
+    background: #7d2ae8;
+}
+
+.wrapper {
+    margin: 150px auto;
+    width: 70%;
+}
+
+img{
+    max-width: 200px;
+    float: left;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.text-box {
+    color: white;
+}
+
+.text-box h2 {
+    font-size: 42px;
+}
+
+.text-box p {
+    font-size: 20px;
+}
+
+.shotgun {
+    margin: 150px auto;
+    width: 70%;
+
+}
+
+.text-2 {
+    color:white;
+    font-size:20px;
+}
+
+.rifle {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.text-3 {
+    color:white;
+    font-size:20px;
+}
+
+.farha {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.text-4 {
+    color:white;
+    font-size:20px;
+}
+
+.wife {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.text-5 {
+    color: white;
+    font-size:20px;
+}
+
+.love {
+    margin: 150px auto;
+    width: 70%;
+}
+
+.text-6{
+    color: white;
+    font-size:20px;
+}
